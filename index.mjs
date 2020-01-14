@@ -3,7 +3,7 @@ import fs from "fs";
 import Foldmaker, { tokenize } from "./foldmaker";
 
 const directoryPath = path.join(
-  "/Users/sojern/Projects/adphorus/adphorus-temenni-app/src"
+  "/Users/ABSOLUTE_PATH_HERE"
 );
 
 function getFiles(dir, files_) {
